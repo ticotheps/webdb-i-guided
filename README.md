@@ -1,5 +1,6 @@
 # DB I Module Guided Project
 
+
 Guided project for **DB I** module.
 
 In this project we will cover the basics of `Structure Query Language (SQL)` and `Relational Databases`.
