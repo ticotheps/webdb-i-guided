@@ -1,5 +1,6 @@
 # DB I Module Guided Project
 
+We followed along with the Query Tool (from w3 schools) provided below.
 
 Guided project for **DB I** module.
 
